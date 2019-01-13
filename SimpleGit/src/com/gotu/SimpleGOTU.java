@@ -4,7 +4,8 @@ public class SimpleGOTU {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
+		SimpleGOTU s=new SimpleGOTU();
+		s.toString();
 	}
 
 }
