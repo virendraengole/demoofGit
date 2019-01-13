@@ -8,5 +8,11 @@ public class SimpleGOTU {
 		System.out.println("Hi viru");
 		System.out.println("hi rajesh");
 		System.out.println("hi rajesh");
+
+		
+		System.out.println("hi rajesh");
+		
+		
+		
 	}
 }
